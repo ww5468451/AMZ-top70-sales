@@ -1,1 +1,1 @@
-# AMZ-top70--sales
+# AMZ-top70-sales
